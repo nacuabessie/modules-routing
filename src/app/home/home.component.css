@@ -1,0 +1,28 @@
+.fash{
+    position: absolute;
+    border-radius: 25px;
+    top: 25%;
+    left: 1%;
+}
+.fash1{
+    position: absolute;
+    right: 1%;
+    top: 25%;
+}
+
+.logo{
+    position: absolute;
+    left: 40%;
+    top: 15%;
+   
+}
+
+.wrap1 h1{
+    color: black ;
+    position: absolute;
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    left: 34%;
+    top: 50%;
+}

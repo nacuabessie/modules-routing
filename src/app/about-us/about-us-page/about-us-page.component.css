@@ -1,0 +1,19 @@
+.cover{
+    position: absolute;
+    top: 20%;
+}
+h1{
+    position: absolute;
+    top: 25%;
+    right: 20%;
+    font-size: 65px;
+}
+
+p{
+    position: absolute;
+    text-align: justify;
+    font-size: 20px;
+    font-weight: 500;
+    top: 40%;
+    right: 3%;
+}
